@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "69955d2b433da055e8d773a7"
+  },
+  "name": "Yash Badola",
+  "username": "yash",
+  "email": "badolayash14@gmail.com",
+  "phone": "7505845714",
+  "password": "$2b$12$tXoaE43UjIcxvrcc5Gcca.WPUI.qVDqbgnSco.7bejzHyRVMLmsIi",
+  "address": [
+    {
+      "name": "Yash Badola",
+      "email": "badolayash14@gmail.com",
+      "phone": "7505845714",
+      "address": "1129 Tilak Colony Subhash Nagar Bareilly",
+      "pin": "243001",
+      "city": "Bareilly",
+      "state": "Uttarpardesh"
+    },
+    {
+      "name": "Yash Badola",
+      "email": "badolayash14@gmail.com",
+      "phone": "7505845714",
+      "address": "A-43, Ducat, Near Pioneer House",
+      "pin": "201301",
+      "city": "Noida",
+      "state": "UP "
+    }
+  ],
+  "role": "Buyer",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-18T06:33:15.741Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-09T06:20:02.295Z"
+  },
+  "__v": 4,
+  "otpAuthObject": {
+    "otp": "754897",
+    "createdAt": {
+      "$date": "2026-03-09T06:19:38.479Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "69955d68433da055e8d773ad"
+  },
+  "name": "Yash Badola",
+  "username": "Yash",
+  "email": "badolayash14@gmail.com",
+  "phone": "7505845714",
+  "password": "$2b$12$gZZohVTW8qzL01GgpeN1pu34M2sK7d8SkPIJTL6is9dkEbpG38ZeS",
+  "address": [
+    {
+      "name": "Yash Badola",
+      "email": "badolayash14@gmail.com",
+      "phone": "7505845714",
+      "address": "1129 Tilak Colony Subhash Nagar Bareilly",
+      "pin": "243001",
+      "city": "Bareilly",
+      "state": "Uttarpardesh"
+    },
+    {
+      "name": "Yash Badola",
+      "email": "badolayash14@gmail.com",
+      "phone": "7505845714",
+      "address": "Ducat, A-43, Sector 16, Behind MacD",
+      "pin": "201301",
+      "city": "Noida",
+      "state": "UP"
+    },
+    {
+      "name": "Yash Badola",
+      "email": "badolayash14@gmail.com",
+      "phone": "7505845714",
+      "address": "Ducat, A-53, Behind Naya Bansh Village",
+      "pin": "121002",
+      "city": "Faridabad",
+      "state": "Haryana"
+    }
+  ],
+  "role": "Super Admin",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-18T06:34:16.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T06:51:59.483Z"
+  },
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "69955da9433da055e8d773b5"
+  },
+  "name": "Yash Badola",
+  "username": "yash",
+  "email": "badolayash14@gmail.com",
+  "phone": "7505845714",
+  "password": "$2b$12$BxTnRooDThxl5QOC1OT/4ublq3mv6NuXBg9eq9hz7q5A6/h4PvNYC",
+  "address": [],
+  "role": "Admin",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-18T06:35:21.814Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T06:35:21.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699febc44e5c37ab3dc6a96e"
+  },
+  "name": "Yash Badola",
+  "username": "yash",
+  "email": "badolayash14@gmail.com",
+  "phone": "7505845714",
+  "password": "$2b$12$1wLIp2I2tp18rj4XqP7iwOPFarCeWPSMyS370LCrSHF2RoCVWZ5f2",
+  "address": [],
+  "role": "Super Admin",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-26T06:44:20.464Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-02T06:25:48.381Z"
+  },
+  "__v": 0
+}]
