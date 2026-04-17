@@ -2,9 +2,9 @@
   "_id": {
     "$oid": "699fe893af0422b909273a14"
   },
-  "name": "Nitin Chauhan",
-  "email": "vishankchauhan@gmail.com",
-  "phone": "9873848046",
+  "name": "Yash Badola",
+  "email": "badolayash14@gmail.com",
+  "phone": "7505845714",
   "subject": "This is Sample Subject",
   "message": "This is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample SubjectThis is Sample Subject",
   "status": false,
